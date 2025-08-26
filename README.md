@@ -1,5 +1,5 @@
 # discord-void
-Unofficial packages for installing Discord on Void Linux system.
+Unofficial packages for installing Discord Canary on Void Linux system.
 
 ```sh
 echo "repository=https://mirror.pawelb.link/discord-void" \
